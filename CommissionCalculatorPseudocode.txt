@@ -1,0 +1,31 @@
+Input a salesmans sales, calculate and display earnings.
+
+intialize variables
+input sales values
+calculate earnings
+display a summary of the salesmans earnings
+
+initialize variables:
+
+    initialize salary
+    initialize grossSales
+    initialize percentage
+    initialize totalSales 
+    initialize earnings
+    
+
+input sales values:
+
+    while grossSales value does not equal -1
+        add grossSales to totalSales for running count
+        
+
+calculate earnings:
+
+    multiply totalSales by percentage, add it to salary and assign it earnings
+    display earnings
+
+    
+        
+  
+  
